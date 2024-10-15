@@ -3,12 +3,9 @@ public class SetMultiplication {
     public static void main(String[] args) {
         Set<String> set1 = new HashSet<>();
         Set<String> set2 = new HashSet<>();
-        set1.add("x1");
-        set1.add("x2");
-        set1.add("x3");
-        set2.add("y1");
-        set2.add("y2");
-        set2.add("y3");
+        do{
+            Str
+        }while();
         Set<Set> ResultSet = new HashSet<>();
         for(String e: set1) {
             for(String f: set2) {
